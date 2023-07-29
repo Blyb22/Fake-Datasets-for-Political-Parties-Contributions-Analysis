@@ -6,22 +6,22 @@ Agriculture Dataset:
 
 File Name: "Area under Crops_Year wise Trend.csv"
 Attributes: Year, Crop Type 1 Area, Crop Type 2 Area, Crop Type 3 Area, Total Area under Crops, Political Party
-Entries: 1000
+Entries: 100
 Education Dataset:
 
 File Name: "Literacy and Literacy Rate.csv"
 Attributes: Year, District Name, Total Population, Literate Population, Literacy Rate, Political Party
-Entries: 1000
+Entries: 100
 Healthcare Dataset:
 
 File Name: "Data regarding the KCR Kit Scheme August 2021.csv"
 Attributes: Year, District Name, Total Delivery, Access to Healthcare Facilities, Political Party
-Entries: 1000
+Entries: 100
 Infrastructure Dataset:
 
 File Name: "Other infrastructure.csv"
 Attributes: Year, ULB (Urban Local Body), Area, Road Length, Electricity Availability, Political Party
-Entries: 1000
+Entries: 100
 Usage:
 These fake datasets can be used for learning data analysis, data visualization, and machine learning techniques. They offer an opportunity to practice working with diverse datasets representing different sectors. Users can explore data cleaning, feature engineering, and data manipulation, as well as build predictive models to analyze the contributions of political parties.
 
